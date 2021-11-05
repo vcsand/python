@@ -1,0 +1,21 @@
+i = input("Irj be valami szoveget: ")
+try:
+	i = int(i)
+	assert i >= 1 and i <= 25
+except:
+	print("Szoveget irj be!")
+try:
+	j =
+except:
+	print("Szamot adj meg!")
+#assert
+for k in i:
+	kod = ord(k)
+	if kod >= 97 and kod <= 122:
+		eltolas = kod + j
+		print(eltolas, end="")
+	elif kod >= 65 and kod <= 90:
+		eltolas = kod + j
+		print(eltolas, end="")
+	else:
+		print(k, end="")
