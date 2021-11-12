@@ -1,0 +1,19 @@
+OS modul
+	Import os
+	Print(os.uname())
+
+	From os import uname
+	Print(uname())
+
+	From os import uname as un
+	Print(un())
+
+	Import os
+	Print(os.name)
+
+	Import os
+	Os.mkdir(“Pistike”)
+	Os.listdir()
+
+	Import os
+	Os.getcwd()
