@@ -1,0 +1,70 @@
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+[0mGET /cars [32m200[0m 10.306 ms - 749[0m
+[0mGET /cars [32m200[0m 3.559 ms - 749[0m
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+[0mGET /cars [32m200[0m 12.009 ms - 749[0m
+[0mGET /cars [32m200[0m 3.969 ms - 749[0m
+[0mGET /carss [33m404[0m 2.020 ms - 2[0m
+[0mGET /cars [32m200[0m 3.457 ms - 749[0m
+[0mGET /cars [32m200[0m 3.530 ms - 749[0m
+[0mGET /cars [32m200[0m 3.488 ms - 749[0m
+[0mGET /cars [32m200[0m 3.547 ms - 749[0m
+[0mGET /cars [32m200[0m 3.474 ms - 749[0m
+[0mGET /cars [32m200[0m 4.689 ms - 749[0m
+[0mGET /cars [32m200[0m 3.460 ms - 749[0m
+[0mGET /cars [32m200[0m 3.468 ms - 749[0m
+[0mGET /cars [32m200[0m 3.382 ms - 749[0m
+[0mGET /cars [32m200[0m 3.422 ms - 749[0m
+[0mGET /cars [32m200[0m 3.456 ms - 749[0m
+[0mGET /cars [32m200[0m 3.364 ms - 749[0m
+[0mGET /carss [33m404[0m 1.853 ms - 2[0m
+[0mGET /carsss [33m404[0m 1.852 ms - 2[0m
