@@ -68,3 +68,155 @@
 [0mGET /cars [32m200[0m 3.364 ms - 749[0m
 [0mGET /carss [33m404[0m 1.853 ms - 2[0m
 [0mGET /carsss [33m404[0m 1.852 ms - 2[0m
+[0mGET /cars [32m200[0m 3.395 ms - 749[0m
+[0mGET /cars [32m200[0m 5.027 ms - 749[0m
+[0mGET /cars?_sort=productio_year [32m200[0m 4.502 ms - 749[0m
+[0mGET /cars [32m200[0m 3.478 ms - 749[0m
+[0mGET /cars?_sort=production_year&_order=desc [32m200[0m 3.663 ms - 749[0m
+[0mGET /cars?_sort=production_year [32m200[0m 3.558 ms - 749[0m
+[0mGET /cars?_sort=production_year&_order=desc [32m200[0m 3.491 ms - 749[0m
+[0mGET /cars?_sort=production_year&_order=desc [32m200[0m 3.480 ms - 749[0m
+  Error reading /home/csanad/python/cars.json
+No data, empty input at 1:1
+
+^
+  Read error has been fixed :)
+  cars.json has changed, reloading...
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/carsss
+
+  Home
+  http://localhost:3000
+
+[0mGET /cars?_sort=production_year&_order=desc [33m404[0m 4.069 ms - 2[0m
+  Error reading /home/csanad/python/cars.json
+No data, empty input at 1:1
+
+^
+  Read error has been fixed :)
+  cars.json has changed, reloading...
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+[0mDELETE /cars/2 [32m200[0m 9.713 ms - 2[0m
+[0mGET /cars [32m200[0m 3.328 ms - 625[0m
+[0mDELETE /cars/2 [33m404[0m 3.732 ms - 2[0m
+[0mDELETE /cars/2 [33m404[0m 3.660 ms - 2[0m
+[0mDELETE /cars/2 [33m404[0m 3.667 ms - 2[0m
+[0mDELETE /cars/2 [33m404[0m 2.525 ms - 2[0m
+[0mDELETE /cars/2 [33m404[0m 5.516 ms - 2[0m
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Cannot bind to the port 3000. Please specify another port number either through --port argument or through the json-server.json configuration file
+[0mDELETE /cars/2 [33m404[0m 3.659 ms - 2[0m
+[0mGET /cars [32m200[0m 3.329 ms - 625[0m
+[0mDELETE /cars/3 [32m200[0m 2.522 ms - 2[0m
+[0mDELETE /cars/3 [33m404[0m 3.603 ms - 2[0m
+[0mGET /cars [32m200[0m 3.157 ms - 497[0m
+[0mDELETE /cars/3 [33m404[0m 2.548 ms - 2[0m
+
+  \{^_^}/ hi!
+
+  Loading cars.json
+  Done
+
+  Resources
+  http://localhost:3000/cars
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+Cannot bind to the port 3000. Please specify another port number either through --port argument or through the json-server.json configuration file
+
+  \{^_^}/ hi!
+
+  Loading ddns.json
+SyntaxError: Malformed JSON in file: ddns.json
+Unexpected token } in JSON at position 130
+    at FileAsync.parse [as deserialize] (<anonymous>)
+    at /usr/local/lib/node_modules/json-server/node_modules/lowdb/adapters/FileAsync.js:41:35
+
+  \{^_^}/ hi!
+
+  Loading ddns.json
+  Done
+
+  Resources
+  http://localhost:3000/ddns
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+
+  Error, can't read from stdin
+  Creating a snapshot from the CLI won't be possible
+[0mGET /ddns [32m200[0m 9.588 ms - 319[0m
+[0mPUT /ddns/3 [32m200[0m 6.466 ms - 15[0m
+[0mGET /ddns [32m200[0m 3.298 ms - 236[0m
+[0mPUT /ddns/3%20/put [33m404[0m 19.583 ms - 2[0m
+[0mGET /ddns [32m200[0m 3.362 ms - 236[0m
+[0mPUT /ddns/3%20/put [33m404[0m 3.862 ms - 2[0m
+[0mGET /ddns [32m200[0m 3.353 ms - 236[0m
+[0mPUT /ddns/3%20/put [33m404[0m 3.866 ms - 2[0m
+[0mGET /ddns [32m200[0m 3.365 ms - 236[0m
+[0mPUT /ddns/3%20/put [33m404[0m 3.832 ms - 2[0m
+[0mGET /ddns [32m200[0m 2.164 ms - 236[0m
+[0mPUT /ddns%20/put [33m404[0m 4.781 ms - 2[0m
+[0mGET /ddns [32m200[0m 3.195 ms - 236[0m
+[0mGET /ddns [32m200[0m 3.313 ms - 236[0m
+[0mGET /ddns [32m200[0m 3.359 ms - 236[0m
+  Error reading /home/csanad/python/ddns.json
+No data, empty input at 1:1
+
+^
+  Read error has been fixed :)
+  ddns.json has changed, reloading...
+
+  Loading ddns.json
+  Done
+
+  Resources
+  http://localhost:3000/ddns
+
+  Home
+  http://localhost:3000
+
+[0mGET /ddns [32m200[0m 4.029 ms - 319[0m
+[0mPUT /ddns/3%20/put [33m404[0m 2.729 ms - 2[0m
+[0mGET /ddns [32m200[0m 3.217 ms - 319[0m
+[0mGET /ddns [32m200[0m 3.333 ms - 319[0m
+[0mPUT /ddns/3 [32m200[0m 7.351 ms - 94[0m
+[0mGET /ddns [32m200[0m 3.346 ms - 321[0m
+[0mPUT /ddns/3 [32m200[0m 3.035 ms - 94[0m
+[0mGET /ddns [32m200[0m 3.144 ms - 321[0m
+[0mPOST /ddns [32m201[0m 5.812 ms - 95[0m
+[0mGET /ddns [32m200[0m 3.188 ms - 430[0m
