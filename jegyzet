@@ -4,3 +4,8 @@ transfer halozaton keresztul szoveges adatokat tovabbitunk, allapot valtozasokat
 api programozhato felulet
 socket(foglalat) open/close halokartyan keresztul kulon gepekrol
 	tcp/udp alapu
+
+
+1. basic/alap authentication
+2. kulcs/token alapu hitelesites, onmagaban nem biztonsagos
+3. szabvanyos hitelesites, OAUTH
