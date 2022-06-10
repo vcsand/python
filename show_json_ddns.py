@@ -27,6 +27,6 @@ def show(json):
         else:
             show_empty()
 if __name__ == "__main__":
-	print("Bolond vagy?!")
+	print("Hiba!")
 	exit()
 
