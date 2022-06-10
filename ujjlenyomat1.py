@@ -14,4 +14,4 @@ reply2 = bcrypt.checkpw(jelszo2.encode("utf8"), bcr)
 if reply2:
 	print("Szep munka katona!")
 else:
-	print("Te gyoker!")
+	print("Hiba!")
