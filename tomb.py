@@ -3,7 +3,7 @@
 try:
 	a = int(input("Adjon meg egy szamot: "))
 except:
-	print("Szamot adj meg gec!!!!")
+	print("Szamot adj meg!")
 	exit(0)
 t2 = ["0" for i in range(a)]
 print(t2)
